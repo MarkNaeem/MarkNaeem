@@ -2,7 +2,7 @@
 <h1 align="left">Hello 👋, I'm Mark</h1>
 
 
-- 🔭 I’m currently working as a Robotics Software Engineer at [Kingdom Technologies](https://www.kingdom.garden).
+- 🔭 I’m currently working as a Perception Software Engineer at [Leap AI](https://helloleap.ai/).
 
 
 - 👨‍💻 My Website [marknaeem.github.io](https://marknaeem.github.io) .
